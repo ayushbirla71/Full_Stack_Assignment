@@ -16,7 +16,7 @@
 
 ## client
 
-# got to client folder
+# go to client folder
 
 `cd ./client`
 
