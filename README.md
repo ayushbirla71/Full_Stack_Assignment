@@ -1,5 +1,7 @@
 # Full_Stack_Assignment
 
+## Deploy Link : https://resilient-malasada-a0c450.netlify.app/
+
 ## This project is based on currency converter and exchange rate website
 
 ## TeckStack used in this project
